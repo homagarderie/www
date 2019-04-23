@@ -1451,14 +1451,14 @@ a {
     font-size: 40px;
   }
   .menu-button.w--open {
-    background-color: #000;
+    background-color: #fff;
   }
   .nav-menu-2 {
     min-width: 240px;
     padding-top: 20px;
     padding-right: 20px;
     padding-left: 20px;
-    background-color: #000;
+    background-color: #fff;
   }
   .brand {
     padding-left: 18px;
